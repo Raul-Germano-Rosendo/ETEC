@@ -6,7 +6,6 @@
 
   <div>
     <p align="center"><B><U>- PRIMEIRO SEMESTRE - </B></U></p>
-  
     </div>
   
     Algoritmo e Programação - ✅
