@@ -1,0 +1,14 @@
+1 - Piscar um led a cada 3 segundos. (Led)
+
+2 - Acender um led quando o botão for apertado. (Led controlado por botão)
+
+3 - ligar e desligar uma lâmpada com botão deslizante. (Lâmpada com interruptor)
+
+4 - criar um semáforo para travessia de 2 carros. (Semáforo carros)
+
+5 - criar um semáforo para travessia de 2 carros e 1 pedestre. (Semáforo carros e pedestre)
+
+6 - criar um semáforo com travessia de 1 carro e 1 pedestre com 5 segundos de travessia para cada um. Quando estiver faltando 3 segundos para o pedestre parar de atravessar piscar a luz e tocar a sirene. (Semáforo completo)
+
+7 - Criar um projeto com dois led´s e um botão. Quando iniciado o projeto o primeiro led deve estar aceso e quando apertado o botão deve-se apagar o primeiro led e acender o segundo led. (Led´s alternados)
+
