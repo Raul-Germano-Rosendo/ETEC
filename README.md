@@ -23,15 +23,15 @@
   
    </div>
   
-    App Inventor - 🔷
+    App Inventor - ✅
     
-    Desenvolvimento de Sistemas - 🔷
+    Desenvolvimento de Sistemas - ✅
     
-    Banco de Dados - 🔷
+    Banco de Dados - ✅
   
-    Web II - 🔷
+    Web II - ✅
  
-    Sistemas Embarcados - 🔷
+    Sistemas Embarcados - ✅
 
   </div>
   
