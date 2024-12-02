@@ -10,11 +10,11 @@
   
     Algoritmo e Programação - ✅
     
-    Banco de Dados - ✅
+    Banco de Dados I - ✅
   
-    OSA/Web - ✅
+    OSA - ✅
  
-    Site Escolar/ Projeto 1º Sem - ✅
+    Site Escolar/Projeto 1º Sem - ✅
 
     Web I - ✅
     
@@ -30,7 +30,7 @@
     
     Desenvolvimento de Sistemas I - ✅
     
-    Banco de Dados - ✅
+    Banco de Dados II - ✅
   
     Web II - ✅
  
@@ -44,7 +44,7 @@
   
   </div>
   
-    Bando de Dados II - ✅
+    Bando de Dados III - ✅
 
     Desenvolvimento de Sistemas II - ✅
 
@@ -55,6 +55,7 @@
     Web III - ✅
 
     TCC - ✅
+    
   </div>
   
   ##
