@@ -15,6 +15,9 @@
     OSA/Web - ✅
  
     Site Escolar/ Projeto 1º Sem - ✅
+
+    Web I - ✅
+    
   </div>
   
   ##
@@ -25,7 +28,7 @@
   
     App Inventor - ✅
     
-    Desenvolvimento de Sistemas - ✅
+    Desenvolvimento de Sistemas I - ✅
     
     Banco de Dados - ✅
   
@@ -41,8 +44,17 @@
   
   </div>
   
-  
-  
+    Bando de Dados II - ✅
+
+    Desenvolvimento de Sistemas II - ✅
+
+    LTT - ✅
+
+    Mobile - ✅
+
+    Web III - ✅
+
+    TCC - ✅
   </div>
   
   ##
